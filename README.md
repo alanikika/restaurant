@@ -1,6 +1,5 @@
 # restaurant_alan
 
-Project Test CT Corp Digital
 
 ## Getting Started
 
